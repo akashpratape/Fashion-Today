@@ -6,6 +6,7 @@ Hello, this is an ecommerce website built using an api of fakestore for products
 
 
 How does it work?
+
 --> The website has a backend to recive API which it then sends it to react frontend which is recieved in the frontend in the form of json data which is accessed using useEffect react hook 
 
 
